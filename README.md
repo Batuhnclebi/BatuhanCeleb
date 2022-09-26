@@ -1,10 +1,18 @@
 # # Hi  👋, I'm Batuhan Celebi
 
-<h3 align="left">Contact Me:</h3>
+<h3 align ="center"> Developer From Istanbul / Turkey </h3>
+
+- 👨‍💻 I'm currently working as an assistant software specialist at Başbuğ group company.
+
+- 👨‍🎓 I’m currently studying in Istanbul Topkapi Universty computer programming.
+
+<h3 align="left">Reach or Contact Me ur opinion :) :</h3>
 <p align="left">
   
 <a href="https://www.linkedin.com/in/batuhan-c-ab67021b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/batuhan-c-ab67021b6/" height="30" width="40" /></a>
 </p>
+illi_1@outlook.com
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
